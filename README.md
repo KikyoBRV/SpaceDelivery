@@ -1,2 +1,1 @@
-# SpaceDelivery
-Sure! Here's a short summary of your game:    **SpaceDelivery** is a fast-paced game where players pilot a spaceship to collect and deliver parcels. The more parcels you carry, the higher the bonus, but delivering increases the ship's speed, adding a challenging twist!
+SpaceDelivery is a game inspired by the "snake game," but I have modified and added some rules. In this game, players control a spaceship that must collect parcels and deliver them to designated delivery points. Players earn bonus points based on the number of parcels the spaceship is carrying. Each time a player delivers parcels to a delivery point, the spaceship's speed increases, making the game more challenging and requiring players to strategize before delivering parcels.

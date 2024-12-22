@@ -30,8 +30,8 @@ venv\Scripts\activate
 5. Run the application
 ```
 # On MacOS
-python3 main.py
+python3 SpaceDelivery.py
 
 # On MS Windows
-python main.py
+python SpaceDelivery.py
 ```

@@ -5,3 +5,33 @@
   This is my Computer Programming 1 project (done since my first year of undergraduate studies, first semester). Therefore, this project is considered my first attempt at making a game using Python.
 ![first_page](Picture/First_page.png)
 ![game_page](Picture/Game_page.png)
+
+### How to run the program
+1. Open cmd/PowerShell/terminal
+2. Clone the repository
+```
+git clone https://github.com/KikyoBRV/WorldData.git](https://github.com/KikyoBRV/SpaceDelivery.git
+```
+3. Change your directory to SpaceDelivery
+```
+cd SpaceDelivery
+```
+4. Create virtual environment
+```
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# On MacOS/Linux:
+source venv/bin/activate
+# On Windows:
+venv\Scripts\activate
+```
+5. Run the application
+```
+# On MacOS
+python3 main.py
+
+# On MS Windows
+python main.py
+```

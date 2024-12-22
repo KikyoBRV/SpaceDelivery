@@ -10,7 +10,7 @@
 1. Open cmd/PowerShell/terminal
 2. Clone the repository
 ```
-git clone https://github.com/KikyoBRV/WorldData.git](https://github.com/KikyoBRV/SpaceDelivery.git
+git clone https://github.com/KikyoBRV/SpaceDelivery.git
 ```
 3. Change your directory to SpaceDelivery
 ```
